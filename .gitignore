@@ -5,3 +5,4 @@ AbstractFactory/bin/Debug/net8.0/AbstractFactory.deps.json
 *.props
 *.targets
 /AbstractFactory/obj
+/AbstractFactory/bin
