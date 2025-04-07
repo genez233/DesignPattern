@@ -1,0 +1,7 @@
+AbstractFactory/bin/Debug/net8.0/AbstractFactory.deps.json
+*.dll
+*.pdb
+*.json
+*.props
+*.targets
+/AbstractFactory/obj
