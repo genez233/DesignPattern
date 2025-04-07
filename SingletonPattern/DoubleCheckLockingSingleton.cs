@@ -8,7 +8,7 @@ public class DoubleCheckLockingSingleton
 {
     // 使用 volatile 关键字确保多线程下对 _instance 的修改可见性
     private static volatile DoubleCheckLockingSingleton? _instance;
-    private static readonly object _lock = new object();
+    private static readonly object Lock = new object();
     
     private DoubleCheckLockingSingleton() {}
 
@@ -18,7 +18,7 @@ public class DoubleCheckLockingSingleton
         {
             if (_instance == null)
             {
-                lock (_lock)
+                lock (Lock)
                 {
                     if (_instance == null)
                     {
