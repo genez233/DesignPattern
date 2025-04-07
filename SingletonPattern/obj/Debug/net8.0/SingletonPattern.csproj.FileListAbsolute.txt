@@ -12,3 +12,4 @@
 /Users/genez/工作/Github/DesignPattern/SingletonPattern/obj/Debug/net8.0/SingletonPattern.pdb
 /Users/genez/工作/Github/DesignPattern/SingletonPattern/obj/Debug/net8.0/SingletonPattern.genruntimeconfig.cache
 /Users/genez/工作/Github/DesignPattern/SingletonPattern/obj/Debug/net8.0/ref/SingletonPattern.dll
+/Users/genez/工作/Github/DesignPattern/SingletonPattern/obj/Debug/net8.0/SingletonPattern.sourcelink.json
