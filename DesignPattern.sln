@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyweightPattern", "Flyweig
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyPattern", "ProxyPattern\ProxyPattern.csproj", "{C86A1202-F57A-494F-A614-33733CBC3945}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibilityPattern", "ChainOfResponsibilityPattern\ChainOfResponsibilityPattern.csproj", "{B02DEA05-1023-486A-8AB0-F5DDBDAEE173}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +80,9 @@ Global
 		{C86A1202-F57A-494F-A614-33733CBC3945}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C86A1202-F57A-494F-A614-33733CBC3945}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C86A1202-F57A-494F-A614-33733CBC3945}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B02DEA05-1023-486A-8AB0-F5DDBDAEE173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B02DEA05-1023-486A-8AB0-F5DDBDAEE173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B02DEA05-1023-486A-8AB0-F5DDBDAEE173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B02DEA05-1023-486A-8AB0-F5DDBDAEE173}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
