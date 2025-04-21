@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+using System;
 using FactoryMethodPattern;
 
 Console.WriteLine("工厂方法模式!");

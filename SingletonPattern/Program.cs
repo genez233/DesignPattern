@@ -1,6 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+using System;
 using System.Threading.Channels;
+using System.Threading.Tasks;
 using SingletonPattern;
 
 Console.WriteLine("单例模式!");
