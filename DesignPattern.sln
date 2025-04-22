@@ -42,6 +42,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatePattern", "StatePatter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPattern", "StrategyPattern\StrategyPattern.csproj", "{253C3E76-F123-4C50-A442-92022A682323}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethodPattern", "TemplateMethodPattern\TemplateMethodPattern.csproj", "{BFE38467-0D73-4EB1-A940-68B97102107B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -132,5 +134,9 @@ Global
 		{253C3E76-F123-4C50-A442-92022A682323}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{253C3E76-F123-4C50-A442-92022A682323}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{253C3E76-F123-4C50-A442-92022A682323}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFE38467-0D73-4EB1-A940-68B97102107B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE38467-0D73-4EB1-A940-68B97102107B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFE38467-0D73-4EB1-A940-68B97102107B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFE38467-0D73-4EB1-A940-68B97102107B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
