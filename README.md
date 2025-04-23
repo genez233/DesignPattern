@@ -1,5 +1,9 @@
 # 常见设计模式
 
+Gof23种常见设计模式项目实战练习
+
+## 创建型
+
 [1.单例模式](https://blog.csdn.net/Canaban/article/details/146185810)
 
 [2.工厂方法模式](https://blog.csdn.net/Canaban/article/details/147443430)
@@ -9,6 +13,8 @@
 [4.建造者模式](https://blog.csdn.net/Canaban/article/details/147047121)
 
 [5.原型模式](https://blog.csdn.net/Canaban/article/details/147120477)
+
+## 结构型
 
 [6.适配器模式](https://blog.csdn.net/Canaban/article/details/147151689)
 
@@ -23,6 +29,8 @@
 [11.享元模式](https://blog.csdn.net/Canaban/article/details/147192492)
 
 [12.代理模式](https://blog.csdn.net/Canaban/article/details/147192519)
+
+## 行为型
 
 [13.责任链模式](https://blog.csdn.net/Canaban/article/details/147192547)
 
